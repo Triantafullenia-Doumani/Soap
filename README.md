@@ -14,18 +14,10 @@ A SOAP client sends the XML document to a SOAP server. This SOAP request is post
 
 The Web Services Simple Object Access Protocol (SOAP) server is an application server plug-in that receives and sends XML data, and provides XML SOAP interfaces into the Tivoli Management Services components and the monitoring agents.
 
-## What WSDL is 
 
-The Web Services Description Language (WSDL /ˈwɪz dəl/) is an XML-based interface description language that is used for describing the functionality offered by a web service
 
-## Why do we need WSDL with SOAP :question:
-
-- an envelope, which defines the message structure and how to process it
-
-- a set of encoding rules for expressing instances of application-defined datatypes
-
-- a convention for representing procedure calls and responses
-
+## Electronic Data Interchange (EDI)
+Electronic Data Interchange (EDI) is the electronic interchange of business information using a standardized format; a process which allows one company to send information to another company electronically rather than with paper. Business entities conducting business electronically are called trading partners.
 ## Functions needed for the soap Client :fountain_pen:
 
 | Functions | Functionality |
