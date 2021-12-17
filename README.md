@@ -20,7 +20,7 @@ http://localhost:8000/client.php
 ```
 or 
 
-### Use Terminal: 
+### Use Terminal
 To get result from terminal go to .../soap and execute:
 ```
 php client.php
