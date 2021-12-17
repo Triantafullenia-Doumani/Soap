@@ -2,8 +2,8 @@
 // model
 class Book
 {
-	public $name;
-	public $year;
+        public $name;
+        public $year;
 }
 
 // create instance and set a book name
