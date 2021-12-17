@@ -1,7 +1,10 @@
 This is a simple SOAP server-client example in php. 
 
-How to try it out?
+Try it yourself
 
+```
+git clone https://github.com/Triantafullenia-Doumani/Soap.git
+```
 Make sure you have SOAP installed  
 
 ```
