@@ -1,27 +1,26 @@
-This is a simple SOAP server-client example in php. 
+## Simple SOAP client 👤
 
-Try it yourself
-
-```
-git clone https://github.com/Triantafullenia-Doumani/Soap.git
-```
-Make sure you have SOAP installed  
+### Install dependencies
 
 ```
-sudo apt-get install php8.0-soap
+apt install php8.0
+apt-get install php8.0-soap
 ```
 
-### Use Localhost
-
-**Start the server** and visit
+### Run the client
 
 ```
-http://localhost:8000/client.php
-```
-or 
+$ php -S localhost:8000
+$ http://localhost:8000/client.php
 
-### Use Terminal
-To get result from terminal go to .../soap and execute:
 ```
-php client.php
+
+👉 Get html response
+
+## Simple SOAP server 🏗️
+
+### Start the server 
+
+```
+$ php -S localhost:8000
 ```
