@@ -25,9 +25,3 @@ To get result from terminal go to .../soap and execute:
 ```
 php client.php
 ```
-
-TODO 🏀
-
-Send a PEPPOL IBIS as exmaple 
-
-
